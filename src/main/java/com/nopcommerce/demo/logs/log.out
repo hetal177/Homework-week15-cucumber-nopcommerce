@@ -1,0 +1,132 @@
+2021-12-16 11:12:310 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:736 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-16 11:12:293 INFO  ComputerPage :31 - Get pageTitle text : Computers
+2021-12-16 11:12:639 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:709 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-16 11:12:256 INFO  DesktopPage :41 - Get pageTitle text Desktops
+2021-12-16 11:12:330 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:875 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-16 11:12:628 INFO  DesktopPage :64 - Click on product 'Build your own computer' : Build your own computer
+2021-12-16 11:12:979 INFO  BuildYourOwnComputerPage :64 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200
+2021-12-16 11:12:74 INFO  BuildYourOwnComputerPage :72 - Select RAM '2 GB
+2021-12-16 11:12:155 INFO  BuildYourOwnComputerPage :81 - Select HDD '320 GB
+2021-12-16 11:12:233 INFO  BuildYourOwnComputerPage :93 - Select HDD 'Vista Home [+$50.00]
+2021-12-16 11:12:318 INFO  BuildYourOwnComputerPage :105 - Select Software '[[ChromeDriver: chrome on WINDOWS (fd1ab283d9c5519475b3bb00f64ff08e)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]
+2021-12-16 11:12:393 INFO  BuildYourOwnComputerPage :114 - Click on 'ADD TO CART' Button
+2021-12-16 11:12:767 INFO  BuildYourOwnComputerPage :121 - Get productAdded Message : The product has been added to your shopping cart
+2021-12-16 11:12:730 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:104 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-16 11:12:684 INFO  DesktopPage :64 - Click on product 'Build your own computer' : Build your own computer
+2021-12-16 11:12:84 INFO  BuildYourOwnComputerPage :64 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]
+2021-12-16 11:12:185 INFO  BuildYourOwnComputerPage :72 - Select RAM '4GB [+$20.00]
+2021-12-16 11:12:285 INFO  BuildYourOwnComputerPage :81 - Select HDD '400 GB [+$100.00]
+2021-12-16 11:12:382 INFO  BuildYourOwnComputerPage :93 - Select HDD 'Vista Premium [+$60.00]
+2021-12-16 11:12:476 INFO  BuildYourOwnComputerPage :105 - Select Software '[[ChromeDriver: chrome on WINDOWS (a79aab1973bd189a3220cffd4e21a7ec)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]
+2021-12-16 11:12:546 INFO  BuildYourOwnComputerPage :114 - Click on 'ADD TO CART' Button
+2021-12-16 11:12:564 INFO  BuildYourOwnComputerPage :121 - Get productAdded Message : The product has been added to your shopping cart
+2021-12-16 11:12:591 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:39 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-16 11:12:115 INFO  DesktopPage :64 - Click on product 'Build your own computer' : Build your own computer
+2021-12-16 11:12:227 INFO  BuildYourOwnComputerPage :64 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]
+2021-12-16 11:12:349 INFO  BuildYourOwnComputerPage :72 - Select RAM '8GB [+$60.00]
+2021-12-16 11:12:434 INFO  BuildYourOwnComputerPage :81 - Select HDD '320 GB
+2021-12-16 11:12:530 INFO  BuildYourOwnComputerPage :93 - Select HDD 'Vista Home [+$50.00]
+2021-12-16 11:12:647 INFO  BuildYourOwnComputerPage :105 - Select Software '[[ChromeDriver: chrome on WINDOWS (74012e677ac941e9e8cf2c8e4de08576)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]
+2021-12-16 11:12:730 INFO  BuildYourOwnComputerPage :114 - Click on 'ADD TO CART' Button
+2021-12-16 11:12:202 INFO  BuildYourOwnComputerPage :121 - Get productAdded Message : The product has been added to your shopping cart
+2021-12-16 11:12:93 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:390 INFO  HomePage :36 - Clicking on login link
+2021-12-16 11:12:848 INFO  LoginPage :49 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (96f9fae83d7ee4c8a009c69c66a0d44f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-16 11:12:798 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:713 INFO  HomePage :36 - Clicking on login link
+2021-12-16 11:12:993 INFO  LoginPage :60 - Entering email address : Test1234@gmail.com to email field 
+2021-12-16 11:12:125 INFO  LoginPage :65 - Entering password : password123 to password field
+2021-12-16 11:12:251 INFO  LoginPage :71 - Clicking on login button
+2021-12-16 11:12:501 INFO  LoginPage :55 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (927bd596a494af7f334d99d2a6e306d6)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-16 11:12:463 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:592 INFO  HomePage :36 - Clicking on login link
+2021-12-16 11:12:855 INFO  LoginPage :60 - Entering email address : abcde@gmail.com to email field 
+2021-12-16 11:12:973 INFO  LoginPage :65 - Entering password : abcd123 to password field
+2021-12-16 11:12:93 INFO  LoginPage :71 - Clicking on login button
+2021-12-16 11:12:791 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:687 INFO  HomePage :36 - Clicking on login link
+2021-12-16 11:12:983 INFO  LoginPage :60 - Entering email address : abcde@gmail.com to email field 
+2021-12-16 11:12:84 INFO  LoginPage :65 - Entering password : abcd123 to password field
+2021-12-16 11:12:183 INFO  LoginPage :71 - Clicking on login button
+2021-12-16 11:12:379 INFO  LoginPage :75 - Clicking on logout link 
+2021-12-16 11:12:175 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:807 INFO  HomePage :41 - Clicking on register link 
+2021-12-16 11:12:519 INFO  RegisterPage :60 - Verify personal Text:  displayed on personal text page[[ChromeDriver: chrome on WINDOWS (e30ca41151b913215bfab44d69b5e955)] -> xpath: //div[@class='title']//strong[text()='Your Personal Details']]
+2021-12-16 11:12:565 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:208 INFO  HomePage :41 - Clicking on register link 
+2021-12-16 11:12:41 INFO  RegisterPage :78 - Enter first Name: krishna to first name field [[ChromeDriver: chrome on WINDOWS (b94d8d46b776af79bcb9644a07ff8c4a)] -> xpath: //input[@id='FirstName']]
+2021-12-16 11:12:161 INFO  RegisterPage :85 - Enter last name Patel to last name field[[ChromeDriver: chrome on WINDOWS (b94d8d46b776af79bcb9644a07ff8c4a)] -> xpath: //input[@id='LastName']]
+2021-12-16 11:12:297 INFO  RegisterPage :92 - Enter date 18 to date field [[ChromeDriver: chrome on WINDOWS (b94d8d46b776af79bcb9644a07ff8c4a)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:351 INFO  RegisterPage :92 - Enter date May to date field [[ChromeDriver: chrome on WINDOWS (b94d8d46b776af79bcb9644a07ff8c4a)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:407 INFO  RegisterPage :92 - Enter date 1979 to date field [[ChromeDriver: chrome on WINDOWS (b94d8d46b776af79bcb9644a07ff8c4a)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:540 INFO  RegisterPage :114 - Enter email test1sj@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (b94d8d46b776af79bcb9644a07ff8c4a)] -> id: Email]
+2021-12-16 11:12:637 INFO  RegisterPage :126 - Enter company name Prime to company's name field [[ChromeDriver: chrome on WINDOWS (b94d8d46b776af79bcb9644a07ff8c4a)] -> xpath: //input[@name='Company']]
+2021-12-16 11:12:760 INFO  RegisterPage :133 -  Enter password abcd123 to password field [[ChromeDriver: chrome on WINDOWS (b94d8d46b776af79bcb9644a07ff8c4a)] -> xpath: //input[@name='Password']]
+2021-12-16 11:12:880 INFO  RegisterPage :140 -  Enter confirm passwordabcd123 to confirm password field [[ChromeDriver: chrome on WINDOWS (b94d8d46b776af79bcb9644a07ff8c4a)] -> xpath: //input[@name='ConfirmPassword']]
+2021-12-16 11:12:440 INFO  RegisterPage :147 -  Click on register button Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='register-button']'
+2021-12-16 11:12:500 INFO  RegisterPage :153 - Verify register Text:  displayed on register page [[ChromeDriver: chrome on WINDOWS (b94d8d46b776af79bcb9644a07ff8c4a)] -> xpath: //div[@class='page-body']//div[text()='Your registration completed']]
+2021-12-16 11:12:415 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:144 INFO  HomePage :41 - Clicking on register link 
+2021-12-16 11:12:661 INFO  RegisterPage :85 - Enter last name A to last name field[[ChromeDriver: chrome on WINDOWS (55106d64fb370ee93bd426b201b492c2)] -> xpath: //input[@id='LastName']]
+2021-12-16 11:12:772 INFO  RegisterPage :92 - Enter date 1 to date field [[ChromeDriver: chrome on WINDOWS (55106d64fb370ee93bd426b201b492c2)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:839 INFO  RegisterPage :92 - Enter date February to date field [[ChromeDriver: chrome on WINDOWS (55106d64fb370ee93bd426b201b492c2)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:913 INFO  RegisterPage :92 - Enter date 2008 to date field [[ChromeDriver: chrome on WINDOWS (55106d64fb370ee93bd426b201b492c2)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:54 INFO  RegisterPage :119 - Enter email abc@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (55106d64fb370ee93bd426b201b492c2)] -> id: Email]
+2021-12-16 11:12:171 INFO  RegisterPage :126 - Enter company name Prime to company's name field [[ChromeDriver: chrome on WINDOWS (55106d64fb370ee93bd426b201b492c2)] -> xpath: //input[@name='Company']]
+2021-12-16 11:12:292 INFO  RegisterPage :133 -  Enter password abc123 to password field [[ChromeDriver: chrome on WINDOWS (55106d64fb370ee93bd426b201b492c2)] -> xpath: //input[@name='Password']]
+2021-12-16 11:12:408 INFO  RegisterPage :140 -  Enter confirm passwordabc123 to confirm password field [[ChromeDriver: chrome on WINDOWS (55106d64fb370ee93bd426b201b492c2)] -> xpath: //input[@name='ConfirmPassword']]
+2021-12-16 11:12:509 INFO  RegisterPage :147 -  Click on register button [[ChromeDriver: chrome on WINDOWS (55106d64fb370ee93bd426b201b492c2)] -> xpath: //button[@id='register-button']]
+2021-12-16 11:12:529 INFO  RegisterPage :158 - Verify register Text:  displayed on register page [[ChromeDriver: chrome on WINDOWS (55106d64fb370ee93bd426b201b492c2)] -> xpath: //span[@id='FirstName-error']]
+2021-12-16 11:12:442 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:354 INFO  HomePage :41 - Clicking on register link 
+2021-12-16 11:12:189 INFO  RegisterPage :85 - Enter last name B to last name field[[ChromeDriver: chrome on WINDOWS (6f3da85c5903d9e42b74ebcc5d5fa95f)] -> xpath: //input[@id='LastName']]
+2021-12-16 11:12:296 INFO  RegisterPage :92 - Enter date 1 to date field [[ChromeDriver: chrome on WINDOWS (6f3da85c5903d9e42b74ebcc5d5fa95f)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:367 INFO  RegisterPage :92 - Enter date May to date field [[ChromeDriver: chrome on WINDOWS (6f3da85c5903d9e42b74ebcc5d5fa95f)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:434 INFO  RegisterPage :92 - Enter date 2009 to date field [[ChromeDriver: chrome on WINDOWS (6f3da85c5903d9e42b74ebcc5d5fa95f)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:606 INFO  RegisterPage :119 - Enter email def@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (6f3da85c5903d9e42b74ebcc5d5fa95f)] -> id: Email]
+2021-12-16 11:12:720 INFO  RegisterPage :126 - Enter company name Testing to company's name field [[ChromeDriver: chrome on WINDOWS (6f3da85c5903d9e42b74ebcc5d5fa95f)] -> xpath: //input[@name='Company']]
+2021-12-16 11:12:877 INFO  RegisterPage :133 -  Enter password def123 to password field [[ChromeDriver: chrome on WINDOWS (6f3da85c5903d9e42b74ebcc5d5fa95f)] -> xpath: //input[@name='Password']]
+2021-12-16 11:12:08 INFO  RegisterPage :140 -  Enter confirm passworddef123 to confirm password field [[ChromeDriver: chrome on WINDOWS (6f3da85c5903d9e42b74ebcc5d5fa95f)] -> xpath: //input[@name='ConfirmPassword']]
+2021-12-16 11:12:114 INFO  RegisterPage :147 -  Click on register button [[ChromeDriver: chrome on WINDOWS (6f3da85c5903d9e42b74ebcc5d5fa95f)] -> xpath: //button[@id='register-button']]
+2021-12-16 11:12:141 INFO  RegisterPage :158 - Verify register Text:  displayed on register page [[ChromeDriver: chrome on WINDOWS (6f3da85c5903d9e42b74ebcc5d5fa95f)] -> xpath: //span[@id='FirstName-error']]
+2021-12-16 11:12:290 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:114 INFO  HomePage :41 - Clicking on register link 
+2021-12-16 11:12:53 INFO  RegisterPage :85 - Enter last name C to last name field[[ChromeDriver: chrome on WINDOWS (795288f46e01ccae8671f6353880e646)] -> xpath: //input[@id='LastName']]
+2021-12-16 11:12:145 INFO  RegisterPage :92 - Enter date 1 to date field [[ChromeDriver: chrome on WINDOWS (795288f46e01ccae8671f6353880e646)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:211 INFO  RegisterPage :92 - Enter date November to date field [[ChromeDriver: chrome on WINDOWS (795288f46e01ccae8671f6353880e646)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:269 INFO  RegisterPage :92 - Enter date 2010 to date field [[ChromeDriver: chrome on WINDOWS (795288f46e01ccae8671f6353880e646)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:394 INFO  RegisterPage :119 - Enter email ghi@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (795288f46e01ccae8671f6353880e646)] -> id: Email]
+2021-12-16 11:12:514 INFO  RegisterPage :126 - Enter company name Square1 to company's name field [[ChromeDriver: chrome on WINDOWS (795288f46e01ccae8671f6353880e646)] -> xpath: //input[@name='Company']]
+2021-12-16 11:12:644 INFO  RegisterPage :133 -  Enter password ghi123 to password field [[ChromeDriver: chrome on WINDOWS (795288f46e01ccae8671f6353880e646)] -> xpath: //input[@name='Password']]
+2021-12-16 11:12:760 INFO  RegisterPage :140 -  Enter confirm passwordghi123 to confirm password field [[ChromeDriver: chrome on WINDOWS (795288f46e01ccae8671f6353880e646)] -> xpath: //input[@name='ConfirmPassword']]
+2021-12-16 11:12:845 INFO  RegisterPage :147 -  Click on register button [[ChromeDriver: chrome on WINDOWS (795288f46e01ccae8671f6353880e646)] -> xpath: //button[@id='register-button']]
+2021-12-16 11:12:862 INFO  RegisterPage :158 - Verify register Text:  displayed on register page [[ChromeDriver: chrome on WINDOWS (795288f46e01ccae8671f6353880e646)] -> xpath: //span[@id='FirstName-error']]
+2021-12-16 11:12:723 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:643 INFO  HomePage :41 - Clicking on register link 
+2021-12-16 11:12:116 INFO  RegisterPage :85 - Enter last name D to last name field[[ChromeDriver: chrome on WINDOWS (aa41a5605f94ddaf51dba90fbba5db73)] -> xpath: //input[@id='LastName']]
+2021-12-16 11:12:209 INFO  RegisterPage :92 - Enter date 1 to date field [[ChromeDriver: chrome on WINDOWS (aa41a5605f94ddaf51dba90fbba5db73)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:280 INFO  RegisterPage :92 - Enter date February to date field [[ChromeDriver: chrome on WINDOWS (aa41a5605f94ddaf51dba90fbba5db73)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:348 INFO  RegisterPage :92 - Enter date 2014 to date field [[ChromeDriver: chrome on WINDOWS (aa41a5605f94ddaf51dba90fbba5db73)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:485 INFO  RegisterPage :119 - Enter email jkl@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (aa41a5605f94ddaf51dba90fbba5db73)] -> id: Email]
+2021-12-16 11:12:609 INFO  RegisterPage :126 - Enter company name Interior Collection to company's name field [[ChromeDriver: chrome on WINDOWS (aa41a5605f94ddaf51dba90fbba5db73)] -> xpath: //input[@name='Company']]
+2021-12-16 11:12:710 INFO  RegisterPage :133 -  Enter password jkl123 to password field [[ChromeDriver: chrome on WINDOWS (aa41a5605f94ddaf51dba90fbba5db73)] -> xpath: //input[@name='Password']]
+2021-12-16 11:12:812 INFO  RegisterPage :140 -  Enter confirm passwordjkl123 to confirm password field [[ChromeDriver: chrome on WINDOWS (aa41a5605f94ddaf51dba90fbba5db73)] -> xpath: //input[@name='ConfirmPassword']]
+2021-12-16 11:12:924 INFO  RegisterPage :147 -  Click on register button [[ChromeDriver: chrome on WINDOWS (aa41a5605f94ddaf51dba90fbba5db73)] -> xpath: //button[@id='register-button']]
+2021-12-16 11:12:946 INFO  RegisterPage :158 - Verify register Text:  displayed on register page [[ChromeDriver: chrome on WINDOWS (aa41a5605f94ddaf51dba90fbba5db73)] -> xpath: //span[@id='FirstName-error']]
+2021-12-16 11:12:879 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-16 11:12:598 INFO  HomePage :41 - Clicking on register link 
+2021-12-16 11:12:484 INFO  RegisterPage :85 - Enter last name E to last name field[[ChromeDriver: chrome on WINDOWS (5239d447f263b56f8ed97762081dd261)] -> xpath: //input[@id='LastName']]
+2021-12-16 11:12:567 INFO  RegisterPage :92 - Enter date 1 to date field [[ChromeDriver: chrome on WINDOWS (5239d447f263b56f8ed97762081dd261)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:638 INFO  RegisterPage :92 - Enter date January to date field [[ChromeDriver: chrome on WINDOWS (5239d447f263b56f8ed97762081dd261)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:703 INFO  RegisterPage :92 - Enter date 2020 to date field [[ChromeDriver: chrome on WINDOWS (5239d447f263b56f8ed97762081dd261)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-16 11:12:829 INFO  RegisterPage :119 - Enter email mno@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (5239d447f263b56f8ed97762081dd261)] -> id: Email]
+2021-12-16 11:12:929 INFO  RegisterPage :126 - Enter company name HarrowGS to company's name field [[ChromeDriver: chrome on WINDOWS (5239d447f263b56f8ed97762081dd261)] -> xpath: //input[@name='Company']]
+2021-12-16 11:12:37 INFO  RegisterPage :133 -  Enter password mno123 to password field [[ChromeDriver: chrome on WINDOWS (5239d447f263b56f8ed97762081dd261)] -> xpath: //input[@name='Password']]
+2021-12-16 11:12:134 INFO  RegisterPage :140 -  Enter confirm passwordmno123 to confirm password field [[ChromeDriver: chrome on WINDOWS (5239d447f263b56f8ed97762081dd261)] -> xpath: //input[@name='ConfirmPassword']]
+2021-12-16 11:12:245 INFO  RegisterPage :147 -  Click on register button [[ChromeDriver: chrome on WINDOWS (5239d447f263b56f8ed97762081dd261)] -> xpath: //button[@id='register-button']]
+2021-12-16 11:12:269 INFO  RegisterPage :158 - Verify register Text:  displayed on register page [[ChromeDriver: chrome on WINDOWS (5239d447f263b56f8ed97762081dd261)] -> xpath: //span[@id='FirstName-error']]
